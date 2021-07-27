@@ -1,0 +1,12 @@
+[27-Jun-2021 22:29:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_url() in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php on line 26
+[27-Jun-2021 22:30:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_url() in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php on line 26
+[27-Jun-2021 22:32:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_home_url() in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/shopf582/projects.hedomi.com/newland/wp-content/themes/newland/youcanbeinterested.php on line 6
